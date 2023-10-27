@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PH Puech, research website"
+title: ""
 excerpt: "What do we do ?"
 author_profile: true
 redirect_from: 
