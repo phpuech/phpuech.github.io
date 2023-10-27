@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Forces + Mechanics + Cell Biology + Immunology"
 title_separator          : "-"
-name                     : &name "Pierre-henri Puech"
+name                     : &name "Pierre-Henri Puech"
 description              : &description "personal description"
 url                      : https://phpuech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
