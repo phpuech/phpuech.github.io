@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre-henri Puech"
-  avatar           : # "profile.png"
+  avatar           : "profile.png"
   bio              : "Inserm researcher, Bio-physics"
   location         : "Marseille, France"
   employer         :
