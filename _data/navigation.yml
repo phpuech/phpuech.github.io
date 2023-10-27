@@ -1,12 +1,8 @@
 # main links links
 main:
-<<<<<<< HEAD
 
   - title: "LAI"
-=======
-  - title: "Publications"
->>>>>>> 058993b3665f681ccf77245878896fb0f1e0cf72
-  url: https://labadhesioninflammation.org/
+  url: (https://labadhesioninflammation.org/)
 
   - title: "News"
   url: /year-archive/
