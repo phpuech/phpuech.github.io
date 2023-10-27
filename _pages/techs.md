@@ -1,10 +1,8 @@
 ---
-permalink: /
+permalink: /techs/
 title: "Techniques"
 excerpt: "For mechanobiology"
 author_profile: true
-redirect_from: 
-  - /techs/
 ---
 
 Our main techniques, aside of imaging (transmission, fluorescence, IRM/RICM) 

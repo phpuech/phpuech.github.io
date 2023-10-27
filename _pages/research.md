@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /research/
 title: "research"
 excerpt: "Research topics"
 author_profile: true
-redirect_from: 
-  - /research/
+  - 
 ---
 
 This page will always be under construction…
