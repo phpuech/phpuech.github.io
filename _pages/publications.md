@@ -31,8 +31,9 @@ Working on it…
 
 # Books
 
-  - Physique de la matière molle (Dunod, 224p – 2018) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. https://www.amazon.fr/Physique-mati%C3%A8re-molle-Fran%C3%A7oise-Brochard-Wyart/dp/2100760270/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=brochard+nassoy&qid=1637938976&sr=8-1
-  - Essentials of Soft Matter Science (CRC Press, 268p – 2019) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. https://www.amazon.fr/Essentials-Soft-Matter-Science-English-ebook/dp/B07W3D1PL9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637938998&sr=8-2
+  - Physique de la matière molle (Dunod, 224p – 2018) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Physique-mati%C3%A8re-molle-Fran%C3%A7oise-Brochard-Wyart/dp/2100760270/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=brochard+nassoy&qid=1637938976&sr=8-1)
+  - Essentials of Soft Matter Science (CRC Press, 268p – 2019) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Essentials-Soft-Matter-Science-English-ebook/dp/B07W3D1PL9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637938998&sr=8-2)
+  - Chinese traduction of ESMS: in the pipeline...
 
 # Peer-reviewed articles & reviews
 
