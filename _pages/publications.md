@@ -130,12 +130,12 @@ Working on it…
 
 ## Technical notes
 
-5. Dissecting T-cell mechanosensing at molecular and cellular scales : The use of nano-force tools by A. Sadoun et al. 2020, Wiley Analytical Science. https://analyticalscience.wiley.com/do/10.1002/was.00010013
+5. Dissecting T-cell mechanosensing at molecular and cellular scales : The use of nano-force tools by A. Sadoun et al. 2020, Wiley Analytical Science. [link](https://analyticalscience.wiley.com/do/10.1002/was.00010013)
 
-4. https://www.researchgate.net/institution/JPK_BioAFM_Bruker_Nano_GmbH/post/5de90a4f4f3a3eafe51577ce_Application_Note_Dissecting_T_cell_mechanosensing_at_molecular_and_cellular_scales_using_nano-force_tools
+4. [Dissecting T cell Mechanosensing](https://www.researchgate.net/institution/JPK_BioAFM_Bruker_Nano_GmbH/post/5de90a4f4f3a3eafe51577ce_Application_Note_Dissecting_T_cell_mechanosensing_at_molecular_and_cellular_scales_using_nano-force_tools)
 
-3. https://www.jpk.com/user-stories/2012/jpk-reports-on-the-research-in-the-marseille-inserm-cnrs-laboratories-where-thenanowizard-afm-system-is-being-used-for-cell-studies
+3. [JPK User Story](https://www.jpk.com/user-stories/2012/jpk-reports-on-the-research-in-the-marseille-inserm-cnrs-laboratories-where-thenanowizard-afm-system-is-being-used-for-cell-studies)
 
-2. https://www.jpk.com/app-technotes-img/Cellular-AdhesionCytomechanics/pdf/jpk-app-cellhesion.1.pdf
+2. [JPK CellHesion, 2](https://www.jpk.com/app-technotes-img/Cellular-AdhesionCytomechanics/pdf/jpk-app-cellhesion.1.pdf)
 
-1. https://www.jpk.com/app-technotes-img/Cellular-AdhesionCytomechanics/pdf/jpk-tech-cellhesion.14-2.pdf
+1. [JPK CellHesion, 1](https://www.jpk.com/app-technotes-img/Cellular-AdhesionCytomechanics/pdf/jpk-tech-cellhesion.14-2.pdf)
