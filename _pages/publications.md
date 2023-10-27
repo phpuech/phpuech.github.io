@@ -19,23 +19,23 @@ author_profile: true
 
 updated Oct. 27, 2023
 
-# Pre-prints / submitted
+## Pre-prints / submitted
 
 CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay tuned !
 
   - Cellular forces during early spreading of T lymphocytes on ultra-soft substrates. Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: https://doi.org/10.1101/2022.02.11.480084
 
-# Accepted
+## Accepted
 
 Working on it…
 
-# Books
+## Books
 
   - Physique de la matière molle (Dunod, 224p – 2018) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Physique-mati%C3%A8re-molle-Fran%C3%A7oise-Brochard-Wyart/dp/2100760270/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=brochard+nassoy&qid=1637938976&sr=8-1)
   - Essentials of Soft Matter Science (CRC Press, 268p – 2019) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Essentials-Soft-Matter-Science-English-ebook/dp/B07W3D1PL9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637938998&sr=8-2)
   - Chinese traduction of ESMS: in the pipeline...
 
-# Peer-reviewed articles & reviews
+## Peer-reviewed articles & reviews
 
 43. Thierry Galliano, Guillaume Gay, Laurent Limozin, Pierre-Henri Puech*. OT_Analysis: a software for rich analysis of force curves when probing living cells with optical tweezers. Journal of Open Source Software, 8(90), 4877, https://doi.org/10.21105/joss.04877
 
@@ -124,11 +124,11 @@ Working on it…
 
 1. Giant vesicles under flows : Extrusion and retraction of tubes Rossier O, Cuvelier D, Borghi N, et al. LANGMUIR Volume : 19 Issue : 3 Pages : 575-584 Published : FEB 4 2003
 
-# Conference proceedings
+## Conference proceedings
 
 1. Tethered Giant Vesicles under Flows : Extrusion of Tubes Borghi, N; Rossier,O; Puech PH; Buguin, A ; Brochard-Wyart, F Proceedings of the First International Congress on Bio-Nanointerfaces (2003) – Tokyo (Japan)
 
-# Technical notes
+## Technical notes
 
 5. Dissecting T-cell mechanosensing at molecular and cellular scales : The use of nano-force tools by A. Sadoun et al. 2020, Wiley Analytical Science. https://analyticalscience.wiley.com/do/10.1002/was.00010013
 
