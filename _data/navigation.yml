@@ -3,7 +3,7 @@ main:
   # - title: "LAI"
   # url: (https://labadhesioninflammation.org/)
 
-  # - title: "News"
+  - title: "News"
   url: /year-archive/
 
   - title: "Research"
