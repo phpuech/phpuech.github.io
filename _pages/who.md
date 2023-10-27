@@ -5,14 +5,14 @@ excerpt: "People"
 author_profile: true
   - 
 ---
-# Researcher
+## Researcher
 
 Pierre-Henri Puech
 - PhD, HDR/Habil. (ED 62 “Bio” @ AMU)
 - Inserm CRCN (CR1, CSS1)
 - Physicist (CV @ Orcid)
 
-# PhD students
+## PhD students
 
 Marie Dessard
 - Phd Student / MD Student
@@ -24,11 +24,13 @@ Jana El Husseini
 - Funded by ANR "BreakInTheWall"
 - Co-advised by A. Dumêtre, IHU Marseille and J Husson, LadhyX, Palaiseau
 
-# Master students, visiting scientists, engineers…
+## Master students, visiting scientists, engineers…
 
 … soon to come !
 
-# Alumnis
+## Alumnis
+
+### 2023
 
 Andrzej Kubiak, PhD, Visiting Scientist, Department of Medical Biotechnology
 Jagiellonian University, Krakow, Poland (part 2, TFM)
@@ -40,6 +42,8 @@ Diego Zamarron, Engineer, Visiting Scientist, Laboratoire de Micro & Nanotechnol
 
 Andrzej Kubiak, PhD, Visiting Scientist, Department of Medical Biotechnology
 Jagiellonian University, Krakow, Poland (part 1, AFM/SCFS)
+
+### 2022
 
 Farah Mustapha, PhD, PostDoc, Co-advised by K. Sengupta, CINaM, Marseille. Now in Morgan Huse Lab, NYC, USA
 
@@ -54,6 +58,8 @@ Thierry Galliano, M2 Bio-Informatics (Marseille, for 6 months) – now IT indust
 Dr. Farah Mustapha, PhD – DOC2AMU / Marie Curie, Co-advised by K. Sengupta, CINaM, Marseille – Defense 29/4/22 ; now post doc in M. Huse lab, NYC
 
 Dr. Fabio Manca, Postdoc Centuri, co-advised by L. Limozin (LAI) and K. Sengupta (CINAM)
+
+### before 2022
 
 Emma Legait (Sup. Opt. Strasbourg), Co-advised by L. Limozin in the frame of Centuri Engineer Program, now PhD student at IBDML, Marseille
 
