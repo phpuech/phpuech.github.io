@@ -1,5 +1,5 @@
 ---
-title: ' A new article : in OpenSource we trust !'
+title: 'A new article : in OpenSource we trust !'
 date: 2023-10-15
 permalink: /posts/2023/10/15/Article
 tags:
