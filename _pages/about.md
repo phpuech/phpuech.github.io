@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: ""
+title: "Immunobiophysics"
 excerpt: "What do we do ?"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Immunobiophysics
 
 How do cells process environmental cues to make decisions? 
 
