@@ -5,7 +5,7 @@ excerpt: "For mechanobiology"
 author_profile: true
 ---
 
-![icons](/images/icones.png)
+<!-- ![icons](/images/icones.png) -->
 
 Our main techniques, aside of imaging (transmission, fluorescence, IRM/RICM) 
 
