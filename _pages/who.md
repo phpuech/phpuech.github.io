@@ -6,14 +6,12 @@ author_profile: true
   - 
 ---
 ## Researcher
-
 Pierre-Henri Puech
 - PhD, HDR/Habil. (ED 62 “Bio” @ AMU)
 - Inserm CRCN (CR1, CSS1)
 - Physicist (CV @ Orcid)
 
 ## PhD students
-
 Marie Dessard
 - Phd Student / MD Student
 - Funded by CENTURI Program
@@ -24,9 +22,18 @@ Jana El Husseini
 - Funded by ANR "BreakInTheWall"
 - Co-advised by A. Dumêtre, IHU Marseille and J Husson, LadhyX, Palaiseau
 
-## Master students, visiting scientists, engineers…
+## Master students
+Cristel Al Sarrouh
+- M2 Bioinformatics AMU
 
-… soon to come !
+
+## Visiting scientists
+In november 2023, we will welcome Aaron Cruz Ramirez, from UNAM, Mexico.
+
+
+## Engineers and technicians
+We benefit from the help of LAI tenure engineers and techs, whose work is shared with the rest of the lab. See LAI pages for details [link](https://labadhesioninflammation.org/current-members/)
+
 
 ## Alumnis
 
@@ -40,10 +47,10 @@ Jagiellonian University, Krakow, Poland (part 2, TFM)
 
 Diego Zamarron, Engineer, Visiting Scientist, Laboratoire de Micro & Nanotechnologie, LaNSBioDyT, UNAM ; Mexico City, Mexico
 
+### 2022
+
 Andrzej Kubiak, PhD, Visiting Scientist, Department of Medical Biotechnology
 Jagiellonian University, Krakow, Poland (part 1, AFM/SCFS)
-
-### 2022
 
 Farah Mustapha, PhD, PostDoc, Co-advised by K. Sengupta, CINaM, Marseille. Now in Morgan Huse Lab, NYC, USA
 
