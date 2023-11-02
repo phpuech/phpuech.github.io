@@ -9,8 +9,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Who ?"
+  - title: "People"
     url: /who/
+
+  - title: "Collaborators"
+    url: /collab/
 
   - title: "Techniques"
     url: /techs/
