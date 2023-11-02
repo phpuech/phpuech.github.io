@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![Icons](/images/icones.png)
+![keywords](/images/canvas3.png)

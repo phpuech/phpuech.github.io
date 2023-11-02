@@ -5,6 +5,8 @@ excerpt: "For mechanobiology"
 author_profile: true
 ---
 
+![icons](/images/icones.png)
+
 Our main techniques, aside of imaging (transmission, fluorescence, IRM/RICM) 
 
   - Biomembrane Force Probe (BFP) & micropipettes set up + optical microscopies (fluo & transm : Cooled systems) : home-made & home-programmed – force resolution : <10pN
