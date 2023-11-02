@@ -9,12 +9,12 @@ author_profile: true
 We could not perform our work without these people... we thank them !
 
 ## Past (-) & Present (+), France
-+ Dr. L. Limozin, Inserm U1067 – Marseille — website
++ Dr. L. Limozin, Inserm U1067 – Marseille
 + Dr. P. Robert, MD, Inserm U1067 – Marseille
-+ Dr. K. Sengupta, CNRS / CiNaM – Marseille — website
-+ Dr. Y. Hamon, CIML – Marseille — website
-+ Dr. A. Dumètre, Timone – Marseille — https://mamacoolp.wixsite.com/coolp/
-+ Dr. J. Husson, LaDHyX – Paris — http://cellmechanics.jimdo.com/
++ Dr. K. Sengupta, CNRS / CiNaM – Marseille 
++ Dr. Y. Hamon, CIML – Marseille
++ Dr. A. Dumètre, Timone – Marseille
++ Dr. J. Husson, LaDHyX – Paris 
 + Dr. P. Pierobon, Institut Curie, Paris
 + M. Hautefeuille, Sorbonne Université
 – Dr. P. Legembre, Inserm, Rennes.
@@ -22,6 +22,7 @@ We could not perform our work without these people... we thank them !
 – Pr. L. Counillon, TIANP – Nice
 – Dr. T. Lecuit, IBDM, Marseille
 – Dr. P. Golstein, CIML, Marseille
+– Dr. C. Boyer, CIML, Marseille
 
 ## Past (-) & Present (+), International
 + T. Fioderlisio-Colle, UNAM, Mexico City, Mexico
