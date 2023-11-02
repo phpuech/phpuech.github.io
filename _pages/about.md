@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Immunobiophysics
+
 How do cells process environmental cues to make decisions? 
 
 This simple question is still generating much experimental and theoretical work, at the border of physics, chemistry and biology, with strong implications in medicine. 
