@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "LAI lab"
-    url: https://labadhesioninflammation.org/
 
-  - title: "Home"
-    url: /about/
+#  - title: "Home"
+#    url: /about/
 
   - title: "News"
     url: /year-archive/
@@ -29,6 +27,9 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+  - title: "> LAI lab"
+    url: https://labadhesioninflammation.org/
 
 
 
