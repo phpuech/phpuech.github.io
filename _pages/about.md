@@ -18,4 +18,4 @@ Here, we (mainly) study lymphocytes and try to decipher (i) how mechanotransduct
 
 For that, we focus on force-based biophysical techniques, combined with optical microscopies.
 
-(text adapted from the abstract of "Mechanotransduction as a major driver of cell behaviour: mechanisms, and relevance to cell organization and future research", Pierre-Henri Puech  & Pierre Bongrand, Open Biol. 2021 Nov;11(11):210256. doi: 10.1098/rsob.210256. [link](https://pubmed.ncbi.nlm.nih.gov/34753321/))
+(Adapted from the abstract of "Mechanotransduction as a major driver of cell behaviour: mechanisms, and relevance to cell organization and future research", Pierre-Henri Puech  & Pierre Bongrand, Open Biol. 2021 Nov;11(11):210256. doi: 10.1098/rsob.210256. [link](https://pubmed.ncbi.nlm.nih.gov/34753321/))
