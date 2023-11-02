@@ -8,16 +8,18 @@ author_profile: true
 
 We could not perform our work without these sources of funding... we thank them !
 
-# Funders
+## Main funders
 
-- Aix Marseille University
+- Aix Marseille University (AMU)
 - CNRS
 - Inserm
 
-- Centuri Convergence Project
-- Inform Labex
+- Agence Nationale pour la Recherche (ANR)
 
-- Amidex / Region PACA
+- Centuri Convergence Project (from ANR)
+- Inform Labex (from ANR)
+
+- Amidex (AMU, Region PACA)
 - European Community (via Doc2AMU)
 
 - GDR Imabio (ex. MIV)
@@ -25,21 +27,21 @@ We could not perform our work without these sources of funding... we thank them 
 
 <!-- ![Funders](/images/supports.png) -->
 
-# Latest projects
+## Latest projects
 ... where we are either coordinators or leading a partner lab :
 - ANR Criticality (2024-2028, coord.)
 - ANR BreakInTheWall (2023-2027, partner)
 - France/Mexico CNRS IRP (2022-2027, coord.)
 
-# Full list
+## Full list
 
-## Local
+### Local
 - Centuri PhD grant in 2022, 2023
 - Centuri Engineer Internship grant in 2021
 - DOC2AMU/Marie Curie PhD grant 2018-2022
 - Centuri Postdoc funding starting in 2019
 
-## National
+### National
 - ANR "Criticality,"" starting on 2024 (coordinator)
 - ANR “Breakinthewall” starting in 2023 (partner)
 - ANR “DNAnobodies” starting in 2023 (collaborator)
@@ -55,7 +57,7 @@ We could not perform our work without these sources of funding... we thank them 
 - CNRS Prise de risques 2007 (coordinator)
 - ANR JCJC “Adhekon” 2006 (partner)
 
-## International
+### International
 - CNRS IRP France/Mexique 2022-2027 (coordinator)
 - CNRS PICS France / Mexique 2018-2021 (coordinator)
 - Human Frontier Science Program (Short term) 2007 (coordinator)
