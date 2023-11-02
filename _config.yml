@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Forces + Mechanics + Cell Biology + Immunology"
+title                    : # "Forces + Mechanics + Cell Biology + Immunology"
 title_separator          : "-"
 name                     : &name "Pierre-Henri Puech"
 description              : &description "personal description"
