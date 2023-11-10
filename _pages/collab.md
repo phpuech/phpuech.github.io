@@ -15,7 +15,7 @@ We could not perform our work without these people... we thank them !
 - Dr. Y. Hamon, CIML - Marseille
 - Dr. A. Dumètre, Timone - Marseille - [link](https://mamacoolp.wixsite.com/coolp)
 - Dr. J. Husson, LaDHyX - Paris - [link](https://cellmechanics.jimdofree.com/)
-- Dr. D. Gonzalez-Rodriguez - [link](https://lcp-a2mc.univ-lorraine.fr/membres/enseignants-chercheurs/gonzalez-rodriguez-d.)
+- Dr. D. Gonzalez-Rodriguez, Metz - [link](https://lcp-a2mc.univ-lorraine.fr/membres/enseignants-chercheurs/gonzalez-rodriguez-d.)
 - Dr. P. Pierobon, Institut Curie, Paris - [link](https://institutcochin.fr/annuaire/paolo-pierobon)
 - M. Hautefeuille, Sorbonne Université - [link](https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/14269-Mathieu-Hautefeuille)
 - Dr. P. Legembre, Inserm, Rennes.
