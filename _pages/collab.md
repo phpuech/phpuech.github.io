@@ -6,7 +6,7 @@ author_profile: true
   - 
 ---
 
-We could not perform our work without these people... we thank them !
+We could not perform our work without these people... we thank them ! [link](https://www.youtube.com/watch?v=ebBjGp7QOGc)
 
 ## Past & Present, France
 - Dr. L. Limozin, Inserm U1067 - Marseille - [link](https://laurentlimozin.wordpress.com/)
