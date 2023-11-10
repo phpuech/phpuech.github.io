@@ -23,7 +23,6 @@ We could not perform our work without these people... we thank them !
 - Pr. L. Counillon, TIANP - Nice
 - Dr. T. Lecuit, IBDM, Marseille
 - Dr. P. Golstein, CIML, Marseille
-- Dr. C. Boyer, CIML, Marseille
 
 ## Past & Present , International
 - T. Fioderlisio-Colle, UNAM, Mexico City, Mexico
