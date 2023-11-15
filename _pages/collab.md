@@ -18,22 +18,26 @@ We could not perform our work without these people... we thank them ! [link](htt
 - Dr. P. Pierobon, Institut Curie, Paris - [link](https://institutcochin.fr/annuaire/paolo-pierobon)
 - M. Hautefeuille, Sorbonne Université - [link](https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/14269-Mathieu-Hautefeuille)
 
-<!-- - Dr. P. Robert, MD, Inserm U1067 - Marseille
+<!-- 
+- Dr. P. Robert, MD, Inserm U1067 - Marseille
 - Dr. P. Legembre, Inserm, Rennes.
 - Dr. C. Boyer, CIML - Marseille
 - Pr. L. Counillon, TIANP - Nice
 - Dr. T. Lecuit, IBDM, Marseille
-- Dr. P. Golstein, CIML, Marseille -->
+- Dr. P. Golstein, CIML, Marseille 
+-->
 
 ## International
 - T. Fioderlisio-Colle, UNAM, Mexico City, Mexico
 - G. Vazquez, UNAM, Mexico City, Mexico
 - Dr. A. Kubiak - Krakow, Poland
 
-<!-- - M. Hautefeuille, UNAM, Mexico City, Mexico
+<!-- 
+- M. Hautefeuille, UNAM, Mexico City, Mexico
 - Pr. E. Evans, UBC - Vancouver, Canada
 - Dr. K. Kinoshita, Boston University, Boston, USA
-- Dr. C. M. Franz - Ando’s lab, Japan -->
+- Dr. C. M. Franz - Ando’s lab, Japan 
+-->
 
 ## Companies / non-institutional partners
 - JPK Instruments, now part of Bruker - Berlin, Germany, since 2003 
@@ -49,4 +53,6 @@ We could not perform our work without these people... we thank them ! [link](htt
 - SFP 
 - Centuri project (part of CORES) ex. Labex INFORM
 
-<!-- - OMNT -->
+<!-- 
+  - OMNT 
+-->
