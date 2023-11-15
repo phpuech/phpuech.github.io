@@ -28,6 +28,12 @@ We could not perform our work without these people... we thank them ! [link](htt
 -->
 
 ## International
+
+We are at the initiative of 
+- the French / Mexican CNRS IRP "BioPhysImmuno" [website](https://biophysimmuno.wordpress.com/)
+- the virtual series of seminars on Immunobiophysics [website](https://immunobiophysics.org/)
+- the series of Immunobiophysics workshop (Les Houches School of Physics / EMBO) [website](https://immunobiophysics.org/)
+
 - T. Fioderlisio-Colle, UNAM, Mexico City, Mexico
 - G. Vazquez, UNAM, Mexico City, Mexico
 - Dr. A. Kubiak - Krakow, Poland
