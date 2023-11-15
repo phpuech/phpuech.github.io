@@ -50,7 +50,7 @@ We are at the initiative of
 - LFO FabLab / Reso-nance numérique - La Friche, Marseille, since 2017 
 
 ## Scientific societies
-- GDR “De la cellule au tissu” (part of COPIL AQV)
+- GDR “Approches quantitatives du vivant” (part of COPIL AQV)
 - GDR “Microscopie Fonctionnelle du Vivant” (part of COPIL Imabio)
 - GDR “Mécanique du vivant”
 - GDR "Physique des plantes"
