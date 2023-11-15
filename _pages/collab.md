@@ -8,7 +8,7 @@ author_profile: true
 
 We could not perform our work without these people... we thank them ! [link](https://www.youtube.com/watch?v=ebBjGp7QOGc)
 
-## Past & Present, France
+## France
 - Dr. L. Limozin, Inserm U1067 - Marseille - [link](https://laurentlimozin.wordpress.com/)
 - Dr. K. Sengupta, CNRS / CiNaM - Marseille - [link](https://www.cinam.univ-mrs.fr/cinam/le-centre/annuaire/fiche-personnel/?idu=184)
 - Dr. Y. Hamon, CIML - Marseille
@@ -24,7 +24,7 @@ We could not perform our work without these people... we thank them ! [link](htt
 - Dr. T. Lecuit, IBDM, Marseille
 - Dr. P. Golstein, CIML, Marseille -->
 
-## Past & Present , International
+## International
 - T. Fioderlisio-Colle, UNAM, Mexico City, Mexico
 - G. Vazquez, UNAM, Mexico City, Mexico
 - Dr. A. Kubiak - Krakow, Poland
