@@ -26,6 +26,12 @@ Jana El Husseini
 Cristel Al Sarrouh
 - M2 Bioinformatics AMU
 
+Dima Obeid
+- M2 Molecular Biology and diagnostic Univ. Lebanon
+
+Nadir Chabane
+- M2 BTI AMU
+
 
 ## Visiting scientists
 In november 2023, we will welcome Aaron Cruz Ramirez, from UNAM, Mexico.
