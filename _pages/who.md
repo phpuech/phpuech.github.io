@@ -12,25 +12,33 @@ Pierre-Henri Puech
 - Physicist (CV @ Orcid)
 
 ## PhD students
+
+Note : A PhD position is open (funded by ANR Criticality, 3 years), to start in oct/nov 2024
+
 Marie Dessard
 - Phd Student / MD Student
 - Funded by CENTURI Program
 - Co-advised by Y. Hamon, CIML, Marseille
+- Thema : T cells mechanoactivation
 
 Jana El Husseini
 - Phd Student, biologist
 - Funded by ANR "BreakInTheWall"
 - Co-advised by A. Dumêtre, IHU Marseille and J Husson, LadhyX, Palaiseau
+- Thema : Eimeria / macrophages
 
 ## Master students
-Cristel Al Sarrouh
+Cristel Al Sarrouh (with S. Fournier, LIS)
 - M2 Bioinformatics AMU
+- Thema : T cells mechanoactivation / LLM / IA
 
-Dima Obeid
+Dima Obeid (with A. Dumetre, LAI)
 - M2 Molecular Biology and diagnostic Univ. Lebanon
+- Thema : Eimeria / macrophages
 
-Nadir Chabane
+Nadir Chabane (with Y. Hamon, CIML)
 - M2 BTI AMU
+- Thema : T cells mechanoactivation
 
 
 ## Visiting scientists
