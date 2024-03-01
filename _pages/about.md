@@ -19,6 +19,6 @@ As part of the LAI lab in Marseille, France [link](https://labadhesioninflammati
 
 For that, we focus on force-based biophysical techniques, combined with optical microscopies and quantitative measurements from all of them.
 
-We are also open to other fields, where immune cells and cancer cells are implicated, and for that we animate the French/Mexican IRP initiative BioPhysImmuno [link](https://biophysimmuno.wordpress.com/) and we started in 2021 the series of EMBO/Les Houches School of Physics conferences and online seminars about immunobiophysics [link](https://immunobiophysics.org/) with the goal to unite and open the community who shares our research interests.
+We are also open to other fields, where immune cells and cancer cells are implicated, and we animate the French/Mexican IRP initiative BioPhysImmuno [link](https://biophysimmuno.wordpress.com/).
 
 (Adapted from the abstract of "Mechanotransduction as a major driver of cell behaviour: mechanisms, and relevance to cell organization and future research", Pierre-Henri Puech  & Pierre Bongrand, Open Biol. 2021 Nov;11(11):210256. doi: 10.1098/rsob.210256. [link](https://pubmed.ncbi.nlm.nih.gov/34753321/))
