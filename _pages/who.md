@@ -41,8 +41,8 @@ Nadir Chabane (dir., with Y. Hamon, CIML)
 - Thema : T cells mechanoactivation
 
 Anjali Rayapin (codir., dir. A. Dumetre, LAI)
-- M1 Biologie Santé
-- Thema : T cells mechanoactivation
+- M1 Biologie Santé AMU
+- Thema : Eimeria / macrophages
 
 Amairani Ventura Martínez (supervision in the frame of BioPhysImmuno IRP, dir. Tatiana Fioderlisio-Coll)
 - Master biology UNAM, Mexico city
