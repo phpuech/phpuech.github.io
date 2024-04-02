@@ -28,21 +28,32 @@ Jana El Husseini
 - Thema : Eimeria / macrophages
 
 ## Master students
-Cristel Al Sarrouh (with S. Fournier, LIS)
+Cristel Al Sarrouh (dir., with S. Fournier, LIS)
 - M2 Bioinformatics AMU
 - Thema : T cells mechanoactivation / LLM / IA
 
-Dima Obeid (with A. Dumetre, LAI)
+Dima Obeid (codir., dir. A. Dumetre, LAI)
 - M2 Molecular Biology and diagnostic Univ. Lebanon
 - Thema : Eimeria / macrophages
 
-Nadir Chabane (with Y. Hamon, CIML)
+Nadir Chabane (dir., with Y. Hamon, CIML)
 - M2 BTI AMU
 - Thema : T cells mechanoactivation
 
+Anjali Rayapin (codir., dir. A. Dumetre, LAI)
+- M2 BTI AMU
+- Thema : T cells mechanoactivation
+
+Amairani Ventura Martínez (supervision in the frame of BioPhysImmuno IRP, dir. Tatiana Fioderlisio-Coll)
+- Master biology UNAM, Mexico city
+- Thema : interactions immune cells / cancer cells
+
+Diana Velázquez Rubio (supervision in the frame of BioPhysImmuno IRP, dir. Tatiana Fioderlisio-Coll)
+- Master biology UNAM, Mexico city
+- Thema : interactions immune cells / cancer cells
 
 ## Visiting scientists
-In november 2023, we will welcome Aaron Cruz Ramirez, from UNAM, Mexico.
+In 2023, we have welcome Aaron Cruz Ramirez and Diego Zamarron, from UNAM, Mexico, in the frame of BioPhysImmuno IRP
 
 
 ## Engineers and technicians
@@ -52,6 +63,8 @@ We benefit from the help of LAI tenure engineers and techs, whose work is shared
 ## Alumnis
 
 ### 2023
+
+Aaron Cruz Ramirez, Engineer, Visiting Scientist, Laboratoire de Micro & Nanotechnologie, LaNSBioDyT, UNAM ; Mexico City, Mexico
 
 Andrzej Kubiak, PhD, Visiting Scientist, Department of Medical Biotechnology
 Jagiellonian University, Krakow, Poland (part 2, TFM)
