@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-updated Oct. 27, 2023
+updated May 8th, 2024
 
 ## Pre-prints / submitted
 
@@ -33,11 +33,14 @@ Working on it…
 
   - Physique de la matière molle (Dunod, 224p – 2018) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Physique-mati%C3%A8re-molle-Fran%C3%A7oise-Brochard-Wyart/dp/2100760270/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=brochard+nassoy&qid=1637938976&sr=8-1)
   - Essentials of Soft Matter Science (CRC Press, 268p – 2019) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Essentials-Soft-Matter-Science-English-ebook/dp/B07W3D1PL9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637938998&sr=8-2)
-  - Chinese traduction of ESMS: in the pipeline...
+  - Chinese traduction of ESMS is on print (May 2024, see the news section !)
 
 ## Peer-reviewed articles & reviews
 
 43. Thierry Galliano, Guillaume Gay, Laurent Limozin, Pierre-Henri Puech*. OT_Analysis: a software for rich analysis of force curves when probing living cells with optical tweezers. Journal of Open Source Software, 8(90), 4877, https://doi.org/10.21105/joss.04877
+--> Git / documentation: https://github.com/phpuech/OT_Analysis
+--> pip: https://pypi.org/project/OT-Analysis/
+--> Documentation, extended: http://otanalysis.free.fr/
 
 42. Fabio Manca*, Gautier Eich, Omar N’Dao, Lucie Normand, Kheya Sengupta*, Laurent Limozin*, Pierre-Henri Puech*. Probing mechanical interaction of immune receptors and cytoskeleton by membrane nanotube extraction. Scientific Reports 13, Article number: 15652 (2023). https://www.nature.com/articles/s41598-023-42599-9
 
