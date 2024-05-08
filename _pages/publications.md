@@ -38,12 +38,9 @@ Working on it…
 ## Peer-reviewed articles & reviews
 
 43. Thierry Galliano, Guillaume Gay, Laurent Limozin, Pierre-Henri Puech*. OT_Analysis: a software for rich analysis of force curves when probing living cells with optical tweezers. Journal of Open Source Software, 8(90), 4877, https://doi.org/10.21105/joss.04877
-
---> Git / documentation: https://github.com/phpuech/OT_Analysis
-
---> pip: https://pypi.org/project/OT-Analysis/
-
---> Documentation, extended: http://otanalysis.free.fr/
+- Git / documentation: https://github.com/phpuech/OT_Analysis
+- pip: https://pypi.org/project/OT-Analysis/
+- Documentation, extended: http://otanalysis.free.fr/
 
 42. Fabio Manca*, Gautier Eich, Omar N’Dao, Lucie Normand, Kheya Sengupta*, Laurent Limozin*, Pierre-Henri Puech*. Probing mechanical interaction of immune receptors and cytoskeleton by membrane nanotube extraction. Scientific Reports 13, Article number: 15652 (2023). https://www.nature.com/articles/s41598-023-42599-9
 
