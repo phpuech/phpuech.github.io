@@ -17,13 +17,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-updated May 8th, 2024
+updated August 12th, 2024
 
 ## Pre-prints / submitted
 
 CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay tuned !
 
-  - Cellular forces during early spreading of T lymphocytes on ultra-soft substrates. Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: https://doi.org/10.1101/2022.02.11.480084
+	- Decoupling individual host response and immune cell engager cytotoxic potency. Cristina Gonzalez Gutierrez, Adrien Aimard, Martine Biarnes-Pélicot, Brigitte Kerfelec, View ORCID ProfilePierre-Henri Puech, Philippe Robert, Francesco Piazza, View ORCID ProfilePatrick Chames, View ORCID ProfileLaurent Limozin. bioRxiv. doi: [link](https://doi.org/10.1101/2024.06.22.600188)
+
+  - Cellular forces during early spreading of T lymphocytes on ultra-soft substrates. Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: [link](https://doi.org/10.1101/2022.02.11.480084)
 
 ## Accepted
 
