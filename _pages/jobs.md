@@ -18,13 +18,13 @@ The following internships topics (Master 1/2 ; Ingenieer) that can be, if the fu
 Please contact us to know more, if you are interested !
 
 - M2 / PhD (funded) : Criticality in T cell early mechanoactivation
-<u><a href="phpuech.github.io/files/Criticality.pdf">Proposal, PDF</a></u>
+<a href="phpuech.github.io/files/Criticality.pdf">Proposal, PDF</a>
 
 - M1 / M2 / PhD : Forces in T cell early mechanoactivation
-<u><a href="phpuech.github.io/files/Spreading.pdf">Proposal, PDF</a></u>
+<a href="phpuech.github.io/files/Spreading.pdf">Proposal, PDF</a>
 
 - M1 / M2 / PhD : Oscillations in T cell early mechanoactivation
-<u><a href="phpuech.github.io/files/Oscillations.pdf">Proposal, PDF</a></u>
+<a href="phpuech.github.io/files/Oscillations.pdf">Proposal, PDF</a>
 
 - M2 / PhD : LLMs/AI on text to build protocols for experiments on T cell early mechanoactivation
-<u><a href="phpuech.github.io/files/LLM.pdf">Proposal, PDF</a></u>
+<a href="phpuech.github.io/files/LLM.pdf">Proposal, PDF</a>
