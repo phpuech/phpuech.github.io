@@ -11,7 +11,7 @@ redirect_from:
 
 How do cells process environmental cues to make decisions? 
 
-This simple question is still generating much experimental and theoretical work, at the border of physics, chemistry and biology, with strong implications in medicine. For that, we started the serie of seminar and conferences about immunbiophysics [link](https://immunobiophysics.org/). You can register for the seminars, they are online and free !!!
+This simple question is still generating much experimental and theoretical work, at the border of physics, chemistry and biology, with strong implications in medicine. For that, we started the serie of seminar and conferences about immunobiophysics [link](https://immunobiophysics.org/). You can register for the seminars, they are online and free !!!
 
 The purpose of mechanobiology is to understand how biochemical and physical cues are turned into signals through mechanotransduction. 
 
