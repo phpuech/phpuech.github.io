@@ -13,6 +13,8 @@ Cell/cell interactions are a paradigm in cell biology since they establish, thro
 
 The following internships topics (Master 1/2 ; Ingenieer) that can be, if the funding is or become avaible turned into a full PhD project, propose to tackle some biophysical aspects of the T cell early mechanoactivation. Usually, these topics will be co-advised by a collaborator in the field of expertise, to have a dual and complementary view over the difficulties and an extra brain to find out solutions !
 
+All of them are co-advised, please refer to the PDF file !
+
 Please contact us to know more, if you are interested !
 
 - M2 / PhD (funded) : Criticality in T cell early mechanoactivation [Proposal, PDF](https://phpuech.github.io/files/Criticality.pdf)
@@ -23,4 +25,5 @@ Please contact us to know more, if you are interested !
 
 - M2 / PhD : LLMs/AI on text to build protocols for experiments on T cell early mechanoactivation [Proposal, PDF](https://phpuech.github.io/files/LLM.pdf)
 
-- M1 / M2 : Biomechanics of parasite / host interactions (more soon)
+- M1 / M2 : Biomechanics of parasite / host interactions : role of the mucus
+[Proposal, PDF](https://phpuech.github.io/files/Mucus.pdf)
