@@ -27,6 +27,8 @@ CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay 
 
   - Cellular forces during early spreading of T lymphocytes on ultra-soft substrates. Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: [link](https://doi.org/10.1101/2022.02.11.480084)
 
+  - AFM-based nanoscale characterization of physical interaction within hematopoietic stem cells niche at single-cell level. Andrzej Jan Kubiak, Natalia Bryniarska-Kubiak, Mehmet Eren, Kacper Kowalski, Kinga Gawlinska, Patrycja Kwiecinska, Martine Biarnes-Pelicot, Marie Dessard, Jana El Husseiny, Ti-Thien N-Guyen, Pawel Kozuch, Olga Lis, Marta Targosz-Korecka, Pierre-Henri Puech, and Krzysztof Szade. bioRxiv. doi: [link](https://doi.org/10.1101/2025.01.03.627171)
+
 ## Accepted
 
 Working on it…
