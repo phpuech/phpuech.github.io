@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-updated August 12th, 2024
+updated Jan. 10th, 2025
 
 ## Pre-prints / submitted
 
