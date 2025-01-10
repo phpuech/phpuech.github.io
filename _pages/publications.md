@@ -22,9 +22,7 @@ updated August 12th, 2024
 ## Pre-prints / submitted
 
 CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay tuned !
-
-  - Decoupling individual host response and immune cell engager cytotoxic potency. Cristina Gonzalez Gutierrez, Adrien Aimard, Martine Biarnes-Pélicot, Brigitte Kerfelec, Pierre-Henri Puech, Philippe Robert, Francesco Piazza, Patrick Chames, Laurent Limozin. bioRxiv. doi: [link](https://doi.org/10.1101/2024.06.22.600188)
-
+  
   - Cellular forces during early spreading of T lymphocytes on ultra-soft substrates. Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: [link](https://doi.org/10.1101/2022.02.11.480084)
 
   - AFM-based nanoscale characterization of physical interaction within hematopoietic stem cells niche at single-cell level. Andrzej Jan Kubiak, Natalia Bryniarska-Kubiak, Mehmet Eren, Kacper Kowalski, Kinga Gawlinska, Patrycja Kwiecinska, Martine Biarnes-Pelicot, Marie Dessard, Jana El Husseiny, Ti-Thien N-Guyen, Pawel Kozuch, Olga Lis, Marta Targosz-Korecka, Pierre-Henri Puech, and Krzysztof Szade. bioRxiv. doi: [link](https://doi.org/10.1101/2025.01.03.627171)
@@ -40,6 +38,8 @@ Working on it…
   - Chinese traduction of PMM, Dunod is on print (May 2024, see the news section !)
 
 ## Peer-reviewed articles & reviews
+
+44. Decoupling individual host response and immune cell engager cytotoxic potency. Cristina Gonzalez Gutierrez, Adrien Aimard, Martine Biarnes-Pélicot, Brigitte Kerfelec, Pierre-Henri Puech, Philippe Robert, Francesco Piazza, Patrick Chames, Laurent Limozin. ACS Nano 2025, https://doi.org/10.1021/acsnano.4c08541
 
 43. Thierry Galliano, Guillaume Gay, Laurent Limozin, Pierre-Henri Puech*. OT_Analysis: a software for rich analysis of force curves when probing living cells with optical tweezers. Journal of Open Source Software, 8(90), 4877, https://doi.org/10.21105/joss.04877
 - Git / documentation: https://github.com/phpuech/OT_Analysis
