@@ -27,9 +27,11 @@ CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay 
 
   - AFM-based nanoscale characterization of physical interaction within hematopoietic stem cells niche at single-cell level. Andrzej Jan Kubiak, Natalia Bryniarska-Kubiak, Mehmet Eren, Kacper Kowalski, Kinga Gawlinska, Patrycja Kwiecinska, Martine Biarnes-Pelicot, Marie Dessard, Jana El Husseiny, Ti-Thien N-Guyen, Pawel Kozuch, Olga Lis, Marta Targosz-Korecka, Pierre-Henri Puech, and Krzysztof Szade. bioRxiv. doi: [link](https://doi.org/10.1101/2025.01.03.627171)
 
+  - Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. bioRxiv. doi: https://doi.org/10.1101/2025.01.30.635790 
+
 ## Accepted
 
-Working on it…
+ - Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech. Accepted (Jan. '25)
 
 ## Books
 
