@@ -28,21 +28,6 @@ Jana El Husseini
 - Thema : Eimeria / macrophages
 
 ## Master students
-Cristel Al Sarrouh (dir., with S. Fournier, LIS)
-- M2 Bioinformatics AMU
-- Thema : T cells mechanoactivation / LLM / IA
-
-Dima Obeid (codir., dir. A. Dumetre, LAI)
-- M2 Molecular Biology and diagnostic Univ. Lebanon
-- Thema : Eimeria / macrophages
-
-Nadir Chabane (dir., with Y. Hamon, CIML)
-- M2 BTI AMU
-- Thema : T cells mechanoactivation
-
-Anjali Rayapin (codir., dir. A. Dumetre, LAI)
-- M1 Biologie Santé AMU
-- Thema : Eimeria / macrophages
 
 Amairani Ventura Martínez (supervision in the frame of BioPhysImmuno IRP, dir. Tatiana Fioderlisio-Coll)
 - Master biology UNAM, Mexico city
@@ -53,7 +38,7 @@ Diana Velázquez Rubio (supervision in the frame of BioPhysImmuno IRP, dir. Tati
 - Thema : interactions immune cells / cancer cells
 
 ## Visiting scientists
-In 2023, we have welcome Aaron Cruz Ramirez and Diego Zamarron, from UNAM, Mexico, in the frame of BioPhysImmuno IRP
+In 2023, we have welcome Aaron Cruz Ramirez and Diego Zamarron, from UNAM, Mexico, in the frame of BioPhysImmuno IRP. In 2024, Amairani Ventura Martínez and Diana Velázquez Rubio. In 2022, 2023, 2024, we have welcome Natalia Kubiaka and Andrzej Kubiak, from Krakow.
 
 
 ## Engineers and technicians
@@ -61,6 +46,17 @@ We benefit from the help of LAI tenure engineers and techs, whose work is shared
 
 
 ## Alumnis
+
+### 2024 
+
+Cristel Al Sarrouh (dir, with S. Fournier, LIS). M2 Bioinformatics AMU
+
+Dima Obeid (codir., dir. A. Dumetre, LAI). M2 Molecular Biology and diagnostic Univ. Lebanon
+
+Nadir Chabane (dir., with Y. Hamon, CIML). M2 BTI AMU. Now sport teacher in Lycée
+
+Anjali Rayapin (codir., dir. A. Dumetre, LAI). M1 Biologie Santé AMU, now M2 in LAI
+
 
 ### 2023
 
