@@ -29,6 +29,8 @@ CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay 
 
   - Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. bioRxiv. doi: https://doi.org/10.1101/2025.01.30.635790 
 
+  - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson * SUbmitted to Star Protocols (March 2025)
+
 ## Accepted
 
  - Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech. Accepted (Jan. '25)
