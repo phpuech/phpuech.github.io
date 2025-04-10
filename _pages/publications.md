@@ -39,7 +39,7 @@ CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay 
 
 ## Peer-reviewed articles & reviews
 
-45.  - Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell 2025 e12006. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech*. doi: https://doi.org/10.1111/boc.12006
+45.  Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell 2025 e12006. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech*. doi: https://doi.org/10.1111/boc.12006
 
 44. Decoupling individual host response and immune cell engager cytotoxic potency. Cristina Gonzalez Gutierrez, Adrien Aimard, Martine Biarnes-Pélicot, Brigitte Kerfelec, Pierre-Henri Puech, Philippe Robert, Francesco Piazza, Patrick Chames, Laurent Limozin. ACS Nano 2025, https://doi.org/10.1021/acsnano.4c08541
 
