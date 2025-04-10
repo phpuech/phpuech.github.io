@@ -13,7 +13,7 @@ Pierre-Henri Puech
 
 ## PhD students
 
-Note : A PhD position is open (funded by ANR Criticality, 3 years), to start in oct/nov 2024
+Note : A PhD position is open (funded by ANR Criticality, 3 years), to start in oct/nov 2025
 
 Marie Dessard
 - Phd Student / MD Student
@@ -29,6 +29,14 @@ Jana El Husseini
 
 ## Master students
 
+Anjali Rayapin (dir. A. Dumêtre (LAI), E. Loizeau (CINAM))
+- Master 2, AMU
+- Thema : Host/parasite interactions
+
+Harshada Ravimukar
+- Master 1, Sorbonne University
+- Thema : T cell mechanics / cholesterol
+
 Amairani Ventura Martínez (supervision in the frame of BioPhysImmuno IRP, dir. Tatiana Fioderlisio-Coll)
 - Master biology UNAM, Mexico city
 - Thema : interactions immune cells / cancer cells
@@ -37,7 +45,7 @@ Diana Velázquez Rubio (supervision in the frame of BioPhysImmuno IRP, dir. Tati
 - Master biology UNAM, Mexico city
 - Thema : interactions immune cells / cancer cells
 
-## Visiting scientists
+## Recent Visiting scientists
 In 2023, we have welcome Aaron Cruz Ramirez and Diego Zamarron, from UNAM, Mexico, in the frame of BioPhysImmuno IRP. In 2024, Amairani Ventura Martínez and Diana Velázquez Rubio. In 2022, 2023, 2024, we have welcome Natalia Kubiaka and Andrzej Kubiak, from Krakow.
 
 

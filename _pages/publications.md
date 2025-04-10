@@ -31,17 +31,15 @@ CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay 
 
   - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson * Submitted to Star Protocols (March 2025)
 
-## Accepted
-
- - Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech. Accepted (Jan. '25)
-
 ## Books
 
   - Physique de la matière molle (Dunod, 224p – 2018) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Physique-mati%C3%A8re-molle-Fran%C3%A7oise-Brochard-Wyart/dp/2100760270/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=brochard+nassoy&qid=1637938976&sr=8-1)
   - Essentials of Soft Matter Science (CRC Press, 268p – 2019) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.amazon.fr/Essentials-Soft-Matter-Science-English-ebook/dp/B07W3D1PL9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637938998&sr=8-2)
-  - Chinese traduction of PMM, Dunod is on print (May 2024, see the news section !)
+  - Essentials of Soft Matter Science (Chinese) Relié (Chemical Industry Press Co. - 2025) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.cip.com.cn/Book/Index/78690)
 
 ## Peer-reviewed articles & reviews
+
+45.  - Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell 2025 e12006. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech*. doi: https://doi.org/10.1111/boc.12006
 
 44. Decoupling individual host response and immune cell engager cytotoxic potency. Cristina Gonzalez Gutierrez, Adrien Aimard, Martine Biarnes-Pélicot, Brigitte Kerfelec, Pierre-Henri Puech, Philippe Robert, Francesco Piazza, Patrick Chames, Laurent Limozin. ACS Nano 2025, https://doi.org/10.1021/acsnano.4c08541
 
