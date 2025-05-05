@@ -15,6 +15,7 @@ We could not perform our work without these people... we thank them ! [link](htt
 - Dr. A. Dumètre, LAI - Marseille - [link](https://mamacoolp.wixsite.com/coolp)
 
 - Dr. P. Robert, MD, Inserm U1067 - Marseille
+- Dr. X. Heim, PharmaD, APHM - Marseille
 - Dr. N. Bardin, MD, APHM - Marseille
 
 - Dr. J. Husson, LaDHyX - Paris - [link](https://cellmechanics.jimdofree.com/)
