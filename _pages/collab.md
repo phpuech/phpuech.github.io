@@ -12,7 +12,7 @@ We could not perform our work without these people... we thank them ! [link](htt
 - Dr. L. Limozin, Inserm U1067 - Marseille - [link](https://laurentlimozin.wordpress.com/)
 - Dr. K. Sengupta, CNRS / CiNaM - Marseille - [link](https://www.cinam.univ-mrs.fr/cinam/le-centre/annuaire/fiche-personnel/?idu=184)
 - Dr. Y. Hamon, CIML - Marseille
-- Dr. A. Dumètre, Timone - Marseille - [link](https://mamacoolp.wixsite.com/coolp)
+- Dr. A. Dumètre, LAI - Marseille - [link](https://mamacoolp.wixsite.com/coolp)
 
 - Dr. P. Robert, MD, Inserm U1067 - Marseille
 - Dr. N. Bardin, MD, APHM - Marseille
@@ -36,10 +36,11 @@ We are at the initiative of
 - the French / Mexican CNRS IRP "BioPhysImmuno" [website](https://biophysimmuno.wordpress.com/)
 - the virtual series of seminars on Immunobiophysics [website](https://immunobiophysics.org/)
 - the series of Immunobiophysics workshop (Les Houches School of Physics / EMBO) [website](https://immunobiophysics.org/)
+- the international conference of mechanobiology at UNAM [website](https://www.lansbiodyt.unam.mx/src/img/eventos/2024/ISCMEBIT-2024.pdf)
 
 - T. Fioderlisio-Colle, UNAM, Mexico City, Mexico
 - G. Vazquez, UNAM, Mexico City, Mexico
-- Dr. A. Kubiak - Krakow, Poland
+- Dr. A. Kubiak - Krakow, Poland (visiting)
 
 <!-- 
 - M. Hautefeuille, UNAM, Mexico City, Mexico
