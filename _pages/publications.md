@@ -23,13 +23,16 @@ updated Jan. 10th, 2025
 
 CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay tuned !
   
-  - Cellular forces during early spreading of T lymphocytes on ultra-soft substrates. Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: [link](https://doi.org/10.1101/2022.02.11.480084)
+  -  NEW VERSION : Spatio-temporal Patterns of T Cell Traction Forces Depend on Stimulation and Cell Subtype
+Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: [link](https://doi.org/10.1101/2022.02.11.480084)
 
   - AFM-based nanoscale characterization of physical interaction within hematopoietic stem cells niche at single-cell level. Andrzej Jan Kubiak, Natalia Bryniarska-Kubiak, Mehmet Eren, Kacper Kowalski, Kinga Gawlinska, Patrycja Kwiecinska, Martine Biarnes-Pelicot, Marie Dessard, Jana El Husseiny, Ti-Thien N-Guyen, Pawel Kozuch, Olga Lis, Marta Targosz-Korecka, Pierre-Henri Puech, and Krzysztof Szade. bioRxiv. doi: [link](https://doi.org/10.1101/2025.01.03.627171)
 
-  - Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. bioRxiv. doi: https://doi.org/10.1101/2025.01.30.635790 
+## Accepted
 
-  - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson * Submitted to Star Protocols (March 2025)
+  - Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. bioRxiv. doi: https://doi.org/10.1101/2025.01.30.635790 > accepted in Cell Rep Phys Sci (2025)
+
+  - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson * Accepted in Star Protocols (2025)
 
 ## Books
 
