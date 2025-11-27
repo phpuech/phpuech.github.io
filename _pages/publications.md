@@ -32,7 +32,7 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
   - Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. bioRxiv. doi: https://doi.org/10.1101/2025.01.30.635790 > accepted in Cell Rep Phys Sci (2025)
 
-  - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson * Accepted in Star Protocols (2025)
+  - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson *  https://doi.org/10.1016/j.xpro.2025.104234 ; Accepted in Star Protocols (2025)
 
 ## Books
 
