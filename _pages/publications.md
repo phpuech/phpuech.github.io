@@ -30,9 +30,8 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
 ## Accepted
 
-  - Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. bioRxiv. doi: https://doi.org/10.1101/2025.01.30.635790 > accepted in Cell Rep Phys Sci (2025)
+  - working on it :)
 
-  - Protocol for quantifying coccidian parasites mechanics and rupture force using advanced micromanipulation-based piercing. Jana El Husseiny, Pierre-Henri Puech*, Aurélien Dumètre* and Julien Husson *  https://doi.org/10.1016/j.xpro.2025.104234 ; Accepted in Star Protocols (2025)
 
 ## Books
 
@@ -41,6 +40,10 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
   - Essentials of Soft Matter Science (Chinese) Relié (Chemical Industry Press Co. - 2025) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.cip.com.cn/Book/Index/78690)
 
 ## Peer-reviewed articles & reviews
+
+47. Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. Cell Reports Physical Science, Volume 6, Issue 12, 102997 
+
+46. Protocol for quantifying coccidian parasite mechanics and rupture force using advanced micromanipulation-based piercing. El Husseiny J, Puech PH, Dumètre A, Husson J. STAR Protoc. 2025 Nov 27;6(4):104234. doi: 10.1016/j.xpro.2025.104234. 
 
 45.  Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell 2025 e12006. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech*. doi: https://doi.org/10.1111/boc.12006
 
