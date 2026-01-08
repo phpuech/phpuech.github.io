@@ -41,7 +41,7 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
 ## Peer-reviewed articles & reviews
 
-47. Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. Cell Reports Physical Science, Volume 6, Issue 12, 102997 
+47. Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. Cell Reports Physical Science, Volume 6, Issue 12, 102997 (WITH COVER : https://www.cell.com/cell-reports-physical-science/issue?pii=S2666-3864(24)X0013-2#fullCover)
 
 46. Protocol for quantifying coccidian parasite mechanics and rupture force using advanced micromanipulation-based piercing. El Husseiny J, Puech PH, Dumètre A, Husson J. STAR Protoc. 2025 Nov 27;6(4):104234. doi: 10.1016/j.xpro.2025.104234. 
 
