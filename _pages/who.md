@@ -13,19 +13,28 @@ Pierre-Henri Puech
 
 ## PhD students
 
-Note : A PhD position is open (funded by ANR Criticality, 3 years), to start in oct/nov 2025
-
 Marie Dessard
 - Phd Student / MD Student
 - Funded by CENTURI Program
 - Co-advised by Y. Hamon, CIML, Marseille
-- Thema : T cells mechanoactivation
+- Thema : T cell mechanoactivation
 
 Jana El Husseini
 - Phd Student, biologist
 - Funded by ANR "BreakInTheWall"
 - Co-advised by A. Dumêtre, IHU Marseille and J Husson, LadhyX, Palaiseau
 - Thema : Eimeria / macrophages
+
+Peter Mothram-Epson
+- PhD Student, biophysicist
+- Funded by ANR "Criticality"
+- Thema : Early T cell recognition
+
+Audrey Limousin
+- PhD Student, biologist
+- Funded by CENTURI Program
+- Co-advised by Y. Hamon, CIML, Marseille
+- Thema : T cell mechanoactivation
 
 ## Master students
 
