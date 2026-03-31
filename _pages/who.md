@@ -22,7 +22,7 @@ Marie Dessard
 Jana El Husseini
 - Phd Student, biologist
 - Funded by ANR "BreakInTheWall"
-- Co-advised by A. Dumêtre, IHU Marseille and J Husson, LadhyX, Palaiseau
+- Co-advised by A. Dumêtre, LAI and J Husson, LadhyX, Palaiseau
 - Thema : Eimeria / macrophages
 
 Peter Mothram-Epson
