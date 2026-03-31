@@ -38,14 +38,6 @@ Audrey Limousin
 
 ## Master students
 
-Anjali Rayapin (dir. A. Dumêtre (LAI), E. Loizeau (CINAM))
-- Master 2, AMU
-- Thema : Host/parasite interactions
-
-Harshada Ravimukar
-- Master 1, Sorbonne University
-- Thema : T cell mechanics / cholesterol
-
 Amairani Ventura Martínez (supervision in the frame of BioPhysImmuno IRP, dir. Tatiana Fioderlisio-Coll)
 - Master biology UNAM, Mexico city
 - Thema : interactions immune cells / cancer cells
@@ -63,6 +55,12 @@ We benefit from the help of LAI tenure engineers and techs, whose work is shared
 
 
 ## Alumnis
+
+### 2025
+
+Anjali Rayapin (codir. A. Dumêtre (LAI), E. Loizeau (CINAM)) M2 AMU biology
+
+Harshada Ravimukar M1 Sorbonne University
 
 ### 2024 
 
