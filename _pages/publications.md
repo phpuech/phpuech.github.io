@@ -30,7 +30,7 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
 ## Accepted
 
-  - working on it :)
+  - JL Pellequer et al. A FAIR road to a bioAFM databank Accepted in Nature Communication april 2026
 
 
 ## Books
