@@ -23,7 +23,7 @@ updated Jan. 10th, 2025
 
 CTRL-C CTRL-V, …, Inkscape import…, we are working on 2 or 3 things… stay tuned !
 
-+ : corresponding author(s)
+"+" : corresponding author(s)
 
  -  Multiscale oocyst wall mechanics govern coccidian resistance
 Jana El Husseiny, Rémy Torro, Laura Sedano, Catherine Cazeaux, Hugo Le Guenno, Artemis Kosta, Mickaël Riou, Jean-Michel Répérant, Stéphanie La Carbona, Anne Silvestre, Julien Husson+ , Pierre-Henri Puech+, Aurélien Dumètre+
