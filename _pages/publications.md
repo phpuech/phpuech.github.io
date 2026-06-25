@@ -30,7 +30,7 @@ bioRxiv 2026.06.23.734144; doi: [link](https://doi.org/10.64898/2026.06.23.73414
   -  NEW VERSION : SSpatio-temporal Force Patterns Reveal a Mechanical Set Point in Early T Cell Activation
 Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sengupta*, Pierre-Henri Puech*. bioRxiv. doi: [link](https://doi.org/10.1101/2022.02.11.480084)
 
-  - AFM-based nanoscale characterization of physical interaction within hematopoietic stem cells niche at single-cell level. Andrzej Jan Kubiak, Natalia Bryniarska-Kubiak, Mehmet Eren, Kacper Kowalski, Kinga Gawlinska, Patrycja Kwiecinska, Martine Biarnes-Pelicot, Marie Dessard, Jana El Husseiny, Ti-Thien N-Guyen, Pawel Kozuch, Olga Lis, Marta Targosz-Korecka, Pierre-Henri Puech, and Krzysztof Szade. bioRxiv. doi: [link](https://doi.org/10.1101/2025.01.03.627171)
+  - AFM-based nanoscale characterization of physical interaction within hematopoietic stem cells niche at single-cell level. Andrzej Jan Kubiak, Natalia Bryniarska-Kubiak, Mehmet Eren, Kacper Kowalski, Kinga Gawlinska, Patrycja Kwiecinska, Martine Biarnes-Pelicot, Marie Dessard, Jana El Husseiny, Ti-Thien N-Guyen, Pawel Kozuch, Olga Lis, Marta Targosz-Korecka, Pierre-Henri Puech*, and Krzysztof Szade*. bioRxiv. doi: [link](https://doi.org/10.1101/2025.01.03.627171)
 
 ## Accepted
 
