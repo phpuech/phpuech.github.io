@@ -47,30 +47,30 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
 ## Peer-reviewed articles & reviews
 
-47. Stiffening cells with light. Eva Gonzalez*, Jana El Husseiny*, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. Cell Reports Physical Science, Volume 6, Issue 12, 102997 (WITH COVER : https://www.cell.com/cell-reports-physical-science/issue?pii=S2666-3864(24)X0013-2#fullCover)
+47. Stiffening cells with light. Eva Gonzalez+, Jana El Husseiny+, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. Cell Reports Physical Science, Volume 6, Issue 12, 102997 (WITH COVER : https://www.cell.com/cell-reports-physical-science/issue?pii=S2666-3864(24)X0013-2#fullCover)
 
-46. Protocol for quantifying coccidian parasite mechanics and rupture force using advanced micromanipulation-based piercing. El Husseiny J, Puech PH, Dumètre A, Husson J. STAR Protoc. 2025 Nov 27;6(4):104234. doi: 10.1016/j.xpro.2025.104234. 
+46. Protocol for quantifying coccidian parasite mechanics and rupture force using advanced micromanipulation-based piercing. El Husseiny J, Puech PH+, Dumètre A+, Husson J.+ STAR Protoc. 2025 Nov 27;6(4):104234. doi: 10.1016/j.xpro.2025.104234. 
 
-45.  Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell 2025 e12006. Tatiana Fioderlisio-Coll*, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech*. doi: https://doi.org/10.1111/boc.12006
+45.  Conference report : Cell Biology and Mechanobiology in Mexico. Biology of the Cell 2025 e12006. Tatiana Fioderlisio-Coll+, Kheya Sengupta, Mathieu Hautefeuille, Laurent Limozin, Pierre-Henri Puech+. doi: https://doi.org/10.1111/boc.12006
 
 44. Decoupling individual host response and immune cell engager cytotoxic potency. Cristina Gonzalez Gutierrez, Adrien Aimard, Martine Biarnes-Pélicot, Brigitte Kerfelec, Pierre-Henri Puech, Philippe Robert, Francesco Piazza, Patrick Chames, Laurent Limozin. ACS Nano 2025, https://doi.org/10.1021/acsnano.4c08541
 
-43. Thierry Galliano, Guillaume Gay, Laurent Limozin, Pierre-Henri Puech*. OT_Analysis: a software for rich analysis of force curves when probing living cells with optical tweezers. Journal of Open Source Software, 8(90), 4877, https://doi.org/10.21105/joss.04877
+43. Thierry Galliano, Guillaume Gay, Laurent Limozin, Pierre-Henri Puech+. OT_Analysis: a software for rich analysis of force curves when probing living cells with optical tweezers. Journal of Open Source Software, 8(90), 4877, https://doi.org/10.21105/joss.04877
 - Git / documentation: https://github.com/phpuech/OT_Analysis
 - pip: https://pypi.org/project/OT-Analysis/
 - Documentation, extended: http://otanalysis.free.fr/
 
-42. Fabio Manca*, Gautier Eich, Omar N’Dao, Lucie Normand, Kheya Sengupta*, Laurent Limozin*, Pierre-Henri Puech*. Probing mechanical interaction of immune receptors and cytoskeleton by membrane nanotube extraction. Scientific Reports 13, Article number: 15652 (2023). https://www.nature.com/articles/s41598-023-42599-9
+42. Fabio Manca+, Gautier Eich, Omar N’Dao, Lucie Normand, Kheya Sengupta+, Laurent Limozin+, Pierre-Henri Puech+. Probing mechanical interaction of immune receptors and cytoskeleton by membrane nanotube extraction. Scientific Reports 13, Article number: 15652 (2023). https://www.nature.com/articles/s41598-023-42599-9
 
-41. Mustapha F., Sengupta K*, Puech PH*, . Mechanical Forces in T cell Biology. Book Chapter, In: Hussein Fayyad Kazan, editor. Immunology and Cancer Biology. Hyderabad, India: Vide Leaf. 2022. https://videleaf.com/mechanical-forces-in-t-cell-biology/
+41. Mustapha F., Sengupta K+, Puech PH+, . Mechanical Forces in T cell Biology. Book Chapter, In: Hussein Fayyad Kazan, editor. Immunology and Cancer Biology. Hyderabad, India: Vide Leaf. 2022. https://videleaf.com/mechanical-forces-in-t-cell-biology/
 
-40. Protocol for measuring weak cellular traction forces using well-controlled ultra-soft polyacrylamide gels. Mustapha F, Sengupta K*, Puech PH*. STAR Protoc. 2022 Jan 28;3(1):101133. doi: 10.1016/j.xpro.2022.101133
+40. Protocol for measuring weak cellular traction forces using well-controlled ultra-soft polyacrylamide gels. Mustapha F, Sengupta K+, Puech PH+. STAR Protoc. 2022 Jan 28;3(1):101133. doi: 10.1016/j.xpro.2022.101133
 
-39. Mechanotransduction as a major driver of cell behaviour: mechanisms, and relevance to cell organization and future research Puech Pierre-Henri* and Bongrand Pierre*. Open Biol. 2021 Nov;11(11):210256. doi: 10.1098/rsob.210256
+39. Mechanotransduction as a major driver of cell behaviour: mechanisms, and relevance to cell organization and future research Puech Pierre-Henri+ and Bongrand Pierre+. Open Biol. 2021 Nov;11(11):210256. doi: 10.1098/rsob.210256
 
 38. iASPP contributes to cortex tension, astral microtubule capture and mitotic spindle positioning via EB1 and Myo1. Aurélie Mangon, Danièle Salaün, Mohamed Lala Bouali, Sabine Quitard, Daniel Isnardon, Stéphane Audebert, Pierre-Henri-Puech, Pascal Verdier-Pinard et Ali Badache, J Cell Biol. 2021 Dec 6;220(12):e202012002. doi: 10.1083/jcb.202012002
 
-37. Controlling T cells shape, mechanics and activation by micropatterning. A. Sadoun, M. Biarnes-Pelicot, L. Ghesquiere-Dierickx, A. Wu, O. Théodoly, L. Limozin, Y. Hamon*, P.-H. Puech*, Sci Rep. 2021 Mar 24;11(1):6783. doi: 10.1038/s41598-021-86133-1
+37. Controlling T cells shape, mechanics and activation by micropatterning. A. Sadoun, M. Biarnes-Pelicot, L. Ghesquiere-Dierickx, A. Wu, O. Théodoly, L. Limozin, Y. Hamon+, P.-H. Puech+, Sci Rep. 2021 Mar 24;11(1):6783. doi: 10.1038/s41598-021-86133-1
 
 36. Single-cell immuno-mechanics: rapid viscoelastic changes are a hall-mark of early leukocyte activation Alexandra Zak, Sara Violeta Merino Cortés, Anaïs Sadoun, Farah Mustapha, Avin Babataheri, Stéphanie Dogniaux, Sophie Dupré-Crochet, Elodie Hudik, Hai-Tao He, Abdul I Barakat, Yolanda R Carrasco, Yannick Hamon, Pierre-Henri Puech, Claire Hivroz, Oliver Nüsse, Julien Husson, Biophys J. 2021 May 4;120(9):1692-1704. doi: 10.1016/j.bpj.2021.02.042
 
@@ -86,30 +86,30 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
 30. Wesley Freppel, David J.P. Ferguson, Karen Shapiro, Jitender P. Dubey, Pierre-Henri Puech, Aurélien Dumètre. Structure, composition, and roles of the Toxoplasma gondii oocyst and sporocyst walls. The Cell Surface, 2018 (5), 100016
 
-29. Dejardin MJ, Hammerle A, Sadoun A, Hamon Y, Puech PH, Sengupta K*, Limozin L* Lamellipod reconstruction by three dimensional reflection interference contrast nanoscopy (3D-RICN). Nanoletters (2018) Oct 10;18(10):6544-6550
+29. Dejardin MJ, Hammerle A, Sadoun A, Hamon Y, Puech PH, Sengupta K+, Limozin L+ Lamellipod reconstruction by three dimensional reflection interference contrast nanoscopy (3D-RICN). Nanoletters (2018) Oct 10;18(10):6544-6550
 
-28. Quantifying CD95/cl-CD95L Implications in Cell Mechanics and Membrane Tension by Atomic Force Microscopy Based Force Measurements. Sadoun A, Puech PH*. Methods Mol Biol. 2017;1557:139-151. doi: 10.1007/978-1-4939-6780-3_14.
+28. Quantifying CD95/cl-CD95L Implications in Cell Mechanics and Membrane Tension by Atomic Force Microscopy Based Force Measurements. Sadoun A, Puech PH+. Methods Mol Biol. 2017;1557:139-151. doi: 10.1007/978-1-4939-6780-3_14.
 
 27. Macrophages facilitate the excystation and differentiation of Toxoplasma gondii sporozoites into tachyzoites following oocyst internalisation. W. Freppel, PH. Puech, D. J. P. Ferguson, N. Azas, J. P. Dubey, A. Dumètre. Sci Rep. 2016 Sep 19;6:33654. doi: 10.1038/srep33654.
 
 26. Dynamic monitoring of cell mechanical properties using profile microindentation. Guillou L, Babataheri A, Puech PH, Barakat AI, Husson J. Sci Rep. 2016 Feb 9;6:21529. doi: 10.1038/srep21529.
 
-25. Synchronizing atomic force microscopy force mode and fluorescence microscopy in real time for immune cell stimulation and activation studies. Cazaux S, Sadoun A, Biarnes-Pelicot M, Martinez M, Obeid S, Bongrand P, Limozin L, Puech PH*. Ultramicroscopy. 2016 Jan;160:168-81. doi: 10.1016/j.ultramic.2015.10.014. Epub 2015 Oct 19.
+25. Synchronizing atomic force microscopy force mode and fluorescence microscopy in real time for immune cell stimulation and activation studies. Cazaux S, Sadoun A, Biarnes-Pelicot M, Martinez M, Obeid S, Bongrand P, Limozin L, Puech PH+. Ultramicroscopy. 2016 Jan;160:168-81. doi: 10.1016/j.ultramic.2015.10.014. Epub 2015 Oct 19.
 
-24. Aurélien Dumètre*, Jitender P. Dubey*, David J. P. Ferguson, Pierre Bongrand, Nadine Azas, and Pierre-Henri Puech*, Mechanics of the Toxoplasma gondii oocyst wall
+24. Aurélien Dumètre+, Jitender P. Dubey+, David J. P. Ferguson, Pierre Bongrand, Nadine Azas, and Pierre-Henri Puech+, Mechanics of the Toxoplasma gondii oocyst wall
 , PNAS 2013 110 (28) 11535-11540
 
 23. Lo Schiavo V, P Robert, Z Mishal, PH Puech F Gentile, P Decuzzi, P Bongrand, L Limozin. Transient adhesion mediated by ligand-receptor interaction on surfaces of variable nanotopography. Int. J. Nanotechnology 2013 Vol.10 No.5/6/7, DOI: 10.1504/IJNT.2013.053512
 
 22. Dumetre, Aurelien; Aubert, Dominique; Puech, Pierre-Henri; et al. Interaction Forces Drive the Environmental Transmission of Pathogenic Protozoa. APPLIED AND ENVIRONMENTAL MICROBIOLOGY 2012, 78(4) 905:912
 
-21. Pierre-Henri Puech*, Damien Nevoltris, Philippe Robert, Laurent Limozin, Claude Boyer and Pierre Bongrand, Force measurements of TCR / pMHC recognition at T cell surface. PloS ONE 2011;6(7):e22344
+21. Pierre-Henri Puech+, Damien Nevoltris, Philippe Robert, Laurent Limozin, Claude Boyer and Pierre Bongrand, Force measurements of TCR / pMHC recognition at T cell surface. PloS ONE 2011;6(7):e22344
 
 20. Hampoelz B, Azou-Gros Y, Fabre R, Markova O, Puech PH, Lecuit T. Microtubule-induced nuclear envelope fluctuations control chromatin dynamics in Drosophila embryos. DEVELOPMENT. 2011 Aug;138(16):3377-86 – Correction (wrong author affiliation) in Development. 2017 Feb 15;144(4):732. doi: 10.1242/dev.149575.
 
 19. Nina Milosavljevic, Christophe Duranton, Nadir Djerbi, Pierre-Henri Puech, Pierre Gounon, Dominique Lagadic-Gossmann, Marie Thérèese Dimanche Boitrel, Michel Tauc, Laurent Counillon et Mallorie Poet, Cisplatin inhibits mechanosensitive ion transporters and channels. Implications for cell homeostasis and pain sensation. Cancer Res. 2010 Oct 1;70(19):7514-22. doi: 10.1158/0008-5472
 
-18.  Atomic Force Microscopy : A Versatile Tool for Studying Cell Morphology, Adhesion and Mechanics Franz CM, Puech PH* CELLULAR AND MOLECULAR BIOENGINEERING 1(4) :1865-5025 2008
+18.  Atomic Force Microscopy : A Versatile Tool for Studying Cell Morphology, Adhesion and Mechanics Franz CM, Puech PH+ CELLULAR AND MOLECULAR BIOENGINEERING 1(4) :1865-5025 2008
 
 17. Tuning the formation and rupture of single ligand-receptor bonds by hyaluronan-induced repulsion Robert P, Sengupta K, Puech PH, Bongrand P, Limozin L BIOPHYSICAL JOURNAL Volume : 95 Issue : 8 Pages : 3999-4012 Published : OCT 15 2008
 
