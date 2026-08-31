@@ -36,7 +36,7 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
 
 ## Accepted
 
-  - JL Pellequer et al. A FAIR road to a bioAFM databank Accepted in Nature Communication april 2026
+  - Working on it...
 
 
 ## Books
@@ -46,6 +46,8 @@ Farah Mustapha, Martine Biarnes-Pelicot, Remy Torro, Jana El Husseiny, Kheya Sen
   - Essentials of Soft Matter Science (Chinese) Relié (Chemical Industry Press Co. - 2025) de Françoise Brochard-Wyart, Pierre Nassoy, Pierre-Henri Puech. [link](https://www.cip.com.cn/Book/Index/78690)
 
 ## Peer-reviewed articles & reviews
+
+48. A FAIR road to a bioAFM databank. Pellequer, JL., Aguayo, S., Alessandrini, A. et al. Nat Methods (2026). https://doi.org/10.1038/s41592-026-03214-7
 
 47. Stiffening cells with light. Eva Gonzalez+, Jana El Husseiny+, Finn Bastian Molzahn, Tiffany Campion, Hadrien Jalaber, Stéphanie Dogniaux, Pierre-Henri Puech, Oliver Nüsse, Laure Gibot, Julien Husson. Cell Reports Physical Science, Volume 6, Issue 12, 102997 (WITH COVER : https://www.cell.com/cell-reports-physical-science/issue?pii=S2666-3864(24)X0013-2#fullCover)
 
