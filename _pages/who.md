@@ -5,7 +5,7 @@ excerpt: "People"
 author_profile: true
   - 
 ---
-## Researcher
+## Principal investigator @ [LAI](https://labadhesioninflammation.org/
 Pierre-Henri Puech
 - PhD, HDR/Habil. (ED 62 “Bio” @ AMU)
 - Inserm CRCN (CR1, CSS1)
